@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLQAModelStoreContainer" CdmEntityContainer="QLQAEntities">
+    <EntitySetMapping Name="categories">
+      <EntityTypeMapping TypeName="QLQAModel.category">
+        <MappingFragment StoreEntitySet="category">
+          <ScalarProperty Name="catID" ColumnName="catID" />
+          <ScalarProperty Name="catName" ColumnName="catName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="products">
+      <EntityTypeMapping TypeName="QLQAModel.product">
+        <MappingFragment StoreEntitySet="products">
+          <ScalarProperty Name="pID" ColumnName="pID" />
+          <ScalarProperty Name="pName" ColumnName="pName" />
+          <ScalarProperty Name="pPrice" ColumnName="pPrice" />
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="pImage" ColumnName="pImage" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="staffs">
+      <EntityTypeMapping TypeName="QLQAModel.staff">
+        <MappingFragment StoreEntitySet="staff">
+          <ScalarProperty Name="staffID" ColumnName="staffID" />
+          <ScalarProperty Name="sName" ColumnName="sName" />
+          <ScalarProperty Name="sPhone" ColumnName="sPhone" />
+          <ScalarProperty Name="sRole" ColumnName="sRole" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tables">
+      <EntityTypeMapping TypeName="QLQAModel.table">
+        <MappingFragment StoreEntitySet="tables">
+          <ScalarProperty Name="tid" ColumnName="tid" />
+          <ScalarProperty Name="tname" ColumnName="tname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblDetails">
+      <EntityTypeMapping TypeName="QLQAModel.tblDetail">
+        <MappingFragment StoreEntitySet="tblDetails">
+          <ScalarProperty Name="DetailID" ColumnName="DetailID" />
+          <ScalarProperty Name="MainID" ColumnName="MainID" />
+          <ScalarProperty Name="proID" ColumnName="proID" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMains">
+      <EntityTypeMapping TypeName="QLQAModel.tblMain">
+        <MappingFragment StoreEntitySet="tblMain">
+          <ScalarProperty Name="MainID" ColumnName="MainID" />
+          <ScalarProperty Name="aDate" ColumnName="aDate" />
+          <ScalarProperty Name="aTime" ColumnName="aTime" />
+          <ScalarProperty Name="TableName" ColumnName="TableName" />
+          <ScalarProperty Name="WaiterName" ColumnName="WaiterName" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="orderType" ColumnName="orderType" />
+          <ScalarProperty Name="total" ColumnName="total" />
+          <ScalarProperty Name="received" ColumnName="received" />
+          <ScalarProperty Name="change" ColumnName="change" />
+          <ScalarProperty Name="driverID" ColumnName="driverID" />
+          <ScalarProperty Name="custName" ColumnName="custName" />
+          <ScalarProperty Name="custPhone" ColumnName="custPhone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="QLQAModel.user">
+        <MappingFragment StoreEntitySet="users">
+          <ScalarProperty Name="userID" ColumnName="userID" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="upass" ColumnName="upass" />
+          <ScalarProperty Name="uName" ColumnName="uName" />
+          <ScalarProperty Name="uphone" ColumnName="uphone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

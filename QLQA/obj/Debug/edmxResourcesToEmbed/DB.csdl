@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLQAModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="category">
+    <Key>
+      <PropertyRef Name="catID" />
+    </Key>
+    <Property Name="catID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="catName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="pID" />
+    </Key>
+    <Property Name="pID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="pName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="pPrice" Type="Double" />
+    <Property Name="CategoryID" Type="Int32" />
+    <Property Name="pImage" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="staff">
+    <Key>
+      <PropertyRef Name="staffID" />
+    </Key>
+    <Property Name="staffID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="sName" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="sPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="sRole" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="table">
+    <Key>
+      <PropertyRef Name="tid" />
+    </Key>
+    <Property Name="tid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tname" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblDetail">
+    <Key>
+      <PropertyRef Name="DetailID" />
+    </Key>
+    <Property Name="DetailID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MainID" Type="Int32" />
+    <Property Name="proID" Type="Int32" />
+    <Property Name="qty" Type="Int32" />
+    <Property Name="price" Type="Double" />
+    <Property Name="amount" Type="Double" />
+  </EntityType>
+  <EntityType Name="tblMain">
+    <Key>
+      <PropertyRef Name="MainID" />
+    </Key>
+    <Property Name="MainID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="aDate" Type="DateTime" Precision="0" />
+    <Property Name="aTime" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="TableName" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="WaiterName" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="status" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="orderType" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="total" Type="Double" />
+    <Property Name="received" Type="Double" />
+    <Property Name="change" Type="Double" />
+    <Property Name="driverID" Type="Int32" />
+    <Property Name="custName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="custPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="username" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="upass" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="uName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="uphone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="QLQAEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="categories" EntityType="Self.category" />
+    <EntitySet Name="products" EntityType="Self.product" />
+    <EntitySet Name="staffs" EntityType="Self.staff" />
+    <EntitySet Name="tables" EntityType="Self.table" />
+    <EntitySet Name="tblDetails" EntityType="Self.tblDetail" />
+    <EntitySet Name="tblMains" EntityType="Self.tblMain" />
+    <EntitySet Name="users" EntityType="Self.user" />
+  </EntityContainer>
+</Schema>

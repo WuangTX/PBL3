@@ -1,0 +1,20 @@
+
+**** Log file opened at 2024-06-06 06:08:59.441902 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 12
+Compilation date          : Jul  7 2023 22:54:54
+CPIC library              : 753.2023.07.06 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1216
+Current working directory : C:\Users\ASUS-PRO\Documents\BaiHoc\PBL3\QL_QuanAn\QLQA-Project\QLQA\Reports
+Program                   : crw64
+Process ID                : 13856
+User                      : ASUS-PRO
+Hardware                  : PC with Windows NT 16x AMD64 Level 23 (Mod 96 Step 1)
+Operating_system          : Windows NT 10.0
+Hostname                  : LAPTOP-CUA-QUAN
+IP address                : 192.168.1.12
+IPv6 address              : fe80::b843:528f:a6b7:a566
+Global trace level        : 0
+
+2024-06-06 06:08:59.437374 [24788] >> Info entry
+	Did not find config file C:\Users\ASUS-PRO\Documents\BaiHoc\PBL3\QL_QuanAn\QLQA-Project\QLQA\Reports\sapnwrfc.ini.

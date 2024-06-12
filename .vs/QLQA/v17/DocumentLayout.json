@@ -1,0 +1,852 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\fbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\fbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\fcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\fcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\print\\fexportorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\print\\fexportorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\fproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\fproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\fcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\fcategoryadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|c:\\users\\asus-pro\\documents\\baihoc\\pbl3\\ql_quanan\\qlqa-project\\qlqa\\reports\\rptlistbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\reports\\rptlistbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\view\\fstatisview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\view\\fstatisview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\view\\fstatisview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\view\\fstatisview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\print\\fexportorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\print\\fexportorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\fqrmomo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\fqrmomo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\print\\fprintbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\print\\fprintbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\reports\\rptlistbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\reports\\rptlistbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\faccountadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\faccountadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\faccountadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\faccountadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\sampleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\sampleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\sampleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\sampleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\fqrmomo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\fqrmomo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\sampleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\sampleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\sampleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\sampleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\view\\faccountview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\view\\faccountview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\view\\fcategoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\view\\fcategoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\view\\fproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\view\\fproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\view\\fproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\view\\fproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\view\\fcategoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\view\\fcategoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\view\\ftableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\view\\ftableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\print\\fprintstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\print\\fprintstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\print\\fprintproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\print\\fprintproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\print\\fprintbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\print\\fprintbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\fbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\fbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\fcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\fcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\view\\fhomeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\view\\fhomeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\view\\fkitchenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\view\\fkitchenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\fmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\fmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\print\\fprintproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\print\\fprintproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\print\\fprintstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\print\\fprintstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\view\\faccountview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\view\\faccountview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\faddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\faddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\fproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\fproductadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\fmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\fmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\fwaiterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\fwaiterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\sqlservertypes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\sqlservertypes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\fbilllist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\fbilllist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\fstaffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\fstaffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\ftableselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\ftableselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\model\\ftableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\model\\ftableadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\view\\fkitchenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\view\\fkitchenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\sqlservertypes\\readme.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B5862F-173A-4DC3-9131-8E3071E41161}|QLQA\\QLQA.csproj|solutionrelative:qlqa\\sqlservertypes\\readme.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\qlqa\\reports\\report1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:qlqa\\reports\\report1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fBillList.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fBillList.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fBillList.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fBillList.cs",
+              "RelativeToolTip": "QLQA\\Model\\fBillList.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:37:27.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fCategoryAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fCategoryAdd.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fCategoryAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fCategoryAdd.cs [Design]",
+              "RelativeToolTip": "QLQA\\Model\\fCategoryAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:42:44.81Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fExportOrder.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fExportOrder.cs",
+              "RelativeDocumentMoniker": "QLQA\\Print\\fExportOrder.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fExportOrder.cs",
+              "RelativeToolTip": "QLQA\\Print\\fExportOrder.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAG8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:01:29.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fExportOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fExportOrder.cs",
+              "RelativeDocumentMoniker": "QLQA\\Print\\fExportOrder.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fExportOrder.cs [Design]",
+              "RelativeToolTip": "QLQA\\Print\\fExportOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:02:50.734Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\MainClass.cs",
+              "RelativeDocumentMoniker": "QLQA\\MainClass.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\MainClass.cs",
+              "RelativeToolTip": "QLQA\\MainClass.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:49:50.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fStatisView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fStatisView.cs",
+              "RelativeDocumentMoniker": "QLQA\\View\\fStatisView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fStatisView.cs [Design]",
+              "RelativeToolTip": "QLQA\\View\\fStatisView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:08:53.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fStatisView.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fStatisView.cs",
+              "RelativeDocumentMoniker": "QLQA\\View\\fStatisView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fStatisView.cs",
+              "RelativeToolTip": "QLQA\\View\\fStatisView.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:08:49.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rptListBill.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Reports\\rptListBill.cs",
+              "RelativeDocumentMoniker": "QLQA\\Reports\\rptListBill.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Reports\\rptListBill.cs",
+              "RelativeToolTip": "QLQA\\Reports\\rptListBill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:42:35.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fCategoryAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fCategoryAdd.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fCategoryAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fCategoryAdd.cs",
+              "RelativeToolTip": "QLQA\\Model\\fCategoryAdd.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:37:51.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fProductAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fProductAdd.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fProductAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fProductAdd.cs",
+              "RelativeToolTip": "QLQA\\Model\\fProductAdd.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:35:33.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fQrMomo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\fQrMomo.cs",
+              "RelativeDocumentMoniker": "QLQA\\fQrMomo.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\fQrMomo.cs",
+              "RelativeToolTip": "QLQA\\fQrMomo.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:04:55.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fPrintBill.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fPrintBill.cs",
+              "RelativeDocumentMoniker": "QLQA\\Print\\fPrintBill.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fPrintBill.cs",
+              "RelativeToolTip": "QLQA\\Print\\fPrintBill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:56:52.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SampleAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\SampleAdd.cs",
+              "RelativeDocumentMoniker": "QLQA\\SampleAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\SampleAdd.cs [Design]",
+              "RelativeToolTip": "QLQA\\SampleAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:08:31.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "fQrMomo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\fQrMomo.cs",
+              "RelativeDocumentMoniker": "QLQA\\fQrMomo.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\fQrMomo.cs [Design]",
+              "RelativeToolTip": "QLQA\\fQrMomo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:08:38.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SampleView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\SampleView.cs",
+              "RelativeDocumentMoniker": "QLQA\\SampleView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\SampleView.cs [Design]",
+              "RelativeToolTip": "QLQA\\SampleView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:08:30.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "fProductView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fProductView.cs",
+              "RelativeDocumentMoniker": "QLQA\\View\\fProductView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fProductView.cs [Design]",
+              "RelativeToolTip": "QLQA\\View\\fProductView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:44:51.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "fMain.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\fMain.cs",
+              "RelativeDocumentMoniker": "QLQA\\fMain.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\fMain.cs",
+              "RelativeToolTip": "QLQA\\fMain.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAMwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:33:54.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "fMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\fMain.cs",
+              "RelativeDocumentMoniker": "QLQA\\fMain.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\fMain.cs [Design]",
+              "RelativeToolTip": "QLQA\\fMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:44:57.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "rptListBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Reports\\rptListBill.cs",
+              "RelativeDocumentMoniker": "QLQA\\Reports\\rptListBill.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Reports\\rptListBill.cs [Design]",
+              "RelativeToolTip": "QLQA\\Reports\\rptListBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:42:27.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fAccountAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fAccountAdd.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fAccountAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fAccountAdd.cs",
+              "RelativeToolTip": "QLQA\\Model\\fAccountAdd.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:44:43.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SampleAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\SampleAdd.cs",
+              "RelativeDocumentMoniker": "QLQA\\SampleAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\SampleAdd.cs",
+              "RelativeToolTip": "QLQA\\SampleAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:42:57.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fAccountAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fAccountAdd.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fAccountAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fAccountAdd.cs [Design]",
+              "RelativeToolTip": "QLQA\\Model\\fAccountAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:08:27.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "fCategoryView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fCategoryView.cs",
+              "RelativeDocumentMoniker": "QLQA\\View\\fCategoryView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fCategoryView.cs [Design]",
+              "RelativeToolTip": "QLQA\\View\\fCategoryView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:44:48.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "fCategoryView.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fCategoryView.cs",
+              "RelativeDocumentMoniker": "QLQA\\View\\fCategoryView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fCategoryView.cs",
+              "RelativeToolTip": "QLQA\\View\\fCategoryView.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:37:21.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "fAccountView.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fAccountView.cs",
+              "RelativeDocumentMoniker": "QLQA\\View\\fAccountView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fAccountView.cs",
+              "RelativeToolTip": "QLQA\\View\\fAccountView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:39:41.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SampleView.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\SampleView.cs",
+              "RelativeDocumentMoniker": "QLQA\\SampleView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\SampleView.cs",
+              "RelativeToolTip": "QLQA\\SampleView.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAMwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:53:02.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "fProductView.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fProductView.cs",
+              "RelativeDocumentMoniker": "QLQA\\View\\fProductView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fProductView.cs",
+              "RelativeToolTip": "QLQA\\View\\fProductView.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAMwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:45:49.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "fTableView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fTableView.cs",
+              "RelativeDocumentMoniker": "QLQA\\View\\fTableView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fTableView.cs [Design]",
+              "RelativeToolTip": "QLQA\\View\\fTableView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:44:54.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "fHomeView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fHomeView.cs",
+              "RelativeDocumentMoniker": "QLQA\\View\\fHomeView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fHomeView.cs [Design]",
+              "RelativeToolTip": "QLQA\\View\\fHomeView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:56:25.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "fPrintProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fPrintProduct.cs",
+              "RelativeDocumentMoniker": "QLQA\\Print\\fPrintProduct.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fPrintProduct.cs [Design]",
+              "RelativeToolTip": "QLQA\\Print\\fPrintProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:57:00.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "fCheckout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fCheckout.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fCheckout.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fCheckout.cs [Design]",
+              "RelativeToolTip": "QLQA\\Model\\fCheckout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:21:34.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "fBillList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fBillList.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fBillList.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fBillList.cs [Design]",
+              "RelativeToolTip": "QLQA\\Model\\fBillList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:50:03.939Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "fPrintStaff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fPrintStaff.cs",
+              "RelativeDocumentMoniker": "QLQA\\Print\\fPrintStaff.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fPrintStaff.cs [Design]",
+              "RelativeToolTip": "QLQA\\Print\\fPrintStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:07:32.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "fManage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fManage.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fManage.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fManage.cs [Design]",
+              "RelativeToolTip": "QLQA\\Model\\fManage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:08:11.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "fPrintBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fPrintBill.cs",
+              "RelativeDocumentMoniker": "QLQA\\Print\\fPrintBill.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fPrintBill.cs [Design]",
+              "RelativeToolTip": "QLQA\\Print\\fPrintBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:45:56.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "fPrintProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fPrintProduct.cs",
+              "RelativeDocumentMoniker": "QLQA\\Print\\fPrintProduct.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fPrintProduct.cs",
+              "RelativeToolTip": "QLQA\\Print\\fPrintProduct.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:00:52.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "fKitchenView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fKitchenView.cs",
+              "RelativeDocumentMoniker": "QLQA\\View\\fKitchenView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fKitchenView.cs [Design]",
+              "RelativeToolTip": "QLQA\\View\\fKitchenView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:22:19.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "fAddCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fAddCustomer.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fAddCustomer.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fAddCustomer.cs [Design]",
+              "RelativeToolTip": "QLQA\\Model\\fAddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:44:30.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "fPrintStaff.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fPrintStaff.cs",
+              "RelativeDocumentMoniker": "QLQA\\Print\\fPrintStaff.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Print\\fPrintStaff.cs",
+              "RelativeToolTip": "QLQA\\Print\\fPrintStaff.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:34:53.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "fAccountView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fAccountView.cs",
+              "RelativeDocumentMoniker": "QLQA\\View\\fAccountView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fAccountView.cs [Design]",
+              "RelativeToolTip": "QLQA\\View\\fAccountView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:44:47.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "fWaiterSelect.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fWaiterSelect.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fWaiterSelect.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fWaiterSelect.cs [Design]",
+              "RelativeToolTip": "QLQA\\Model\\fWaiterSelect.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:08:16.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "fManage.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fManage.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fManage.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fManage.cs",
+              "RelativeToolTip": "QLQA\\Model\\fManage.cs",
+              "ViewState": "AQIAAHQCAAAAAAAAAAAAwI4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:54:08.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "fProductAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fProductAdd.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fProductAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fProductAdd.cs [Design]",
+              "RelativeToolTip": "QLQA\\Model\\fProductAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:08:13.521Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\SqlServerTypes\\Loader.cs",
+              "RelativeDocumentMoniker": "QLQA\\SqlServerTypes\\Loader.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\SqlServerTypes\\Loader.cs",
+              "RelativeToolTip": "QLQA\\SqlServerTypes\\Loader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:21:51.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "fBillList.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fBillList.Designer.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fBillList.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fBillList.Designer.cs",
+              "RelativeToolTip": "QLQA\\Model\\fBillList.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:37:43.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "fTableSelect.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fTableSelect.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fTableSelect.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fTableSelect.cs [Design]",
+              "RelativeToolTip": "QLQA\\Model\\fTableSelect.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:08:15.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "fStaffAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fStaffAdd.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fStaffAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fStaffAdd.cs [Design]",
+              "RelativeToolTip": "QLQA\\Model\\fStaffAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:08:23.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "fTableAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fTableAdd.cs",
+              "RelativeDocumentMoniker": "QLQA\\Model\\fTableAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Model\\fTableAdd.cs [Design]",
+              "RelativeToolTip": "QLQA\\Model\\fTableAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:08:14.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "flogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\flogin.cs",
+              "RelativeDocumentMoniker": "QLQA\\flogin.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\flogin.cs [Design]",
+              "RelativeToolTip": "QLQA\\flogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:07:38.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "readme.htm",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\SqlServerTypes\\readme.htm",
+              "RelativeDocumentMoniker": "QLQA\\SqlServerTypes\\readme.htm",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\SqlServerTypes\\readme.htm",
+              "RelativeToolTip": "QLQA\\SqlServerTypes\\readme.htm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-08T07:22:00.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "fKitchenView.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fKitchenView.cs",
+              "RelativeDocumentMoniker": "QLQA\\View\\fKitchenView.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\View\\fKitchenView.cs",
+              "RelativeToolTip": "QLQA\\View\\fKitchenView.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAKIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:22:30.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Report1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Reports\\Report1.cs",
+              "RelativeDocumentMoniker": "QLQA\\Reports\\Report1.cs",
+              "ToolTip": "C:\\Users\\ASUS-PRO\\Documents\\BaiHoc\\PBL3\\QL_QuanAn\\QLQA-Project\\QLQA\\Reports\\Report1.cs",
+              "RelativeToolTip": "QLQA\\Reports\\Report1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T03:51:23.553Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

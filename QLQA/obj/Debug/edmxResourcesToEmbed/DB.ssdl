@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLQAModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="category">
+    <Key>
+      <PropertyRef Name="catID" />
+    </Key>
+    <Property Name="catID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="catName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="products">
+    <Key>
+      <PropertyRef Name="pID" />
+    </Key>
+    <Property Name="pID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="pName" Type="nvarchar" MaxLength="50" />
+    <Property Name="pPrice" Type="float" />
+    <Property Name="CategoryID" Type="int" />
+    <Property Name="pImage" Type="image" />
+  </EntityType>
+  <EntityType Name="staff">
+    <Key>
+      <PropertyRef Name="staffID" />
+    </Key>
+    <Property Name="staffID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="sName" Type="nvarchar" MaxLength="40" />
+    <Property Name="sPhone" Type="nvarchar" MaxLength="50" />
+    <Property Name="sRole" Type="nvarchar" MaxLength="40" />
+  </EntityType>
+  <EntityType Name="tables">
+    <Key>
+      <PropertyRef Name="tid" />
+    </Key>
+    <Property Name="tid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="tname" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="tblDetails">
+    <Key>
+      <PropertyRef Name="DetailID" />
+    </Key>
+    <Property Name="DetailID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MainID" Type="int" />
+    <Property Name="proID" Type="int" />
+    <Property Name="qty" Type="int" />
+    <Property Name="price" Type="float" />
+    <Property Name="amount" Type="float" />
+  </EntityType>
+  <EntityType Name="tblMain">
+    <Key>
+      <PropertyRef Name="MainID" />
+    </Key>
+    <Property Name="MainID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="aDate" Type="date" />
+    <Property Name="aTime" Type="varchar" MaxLength="15" />
+    <Property Name="TableName" Type="nvarchar" MaxLength="20" />
+    <Property Name="WaiterName" Type="nvarchar" MaxLength="40" />
+    <Property Name="status" Type="nvarchar" MaxLength="30" />
+    <Property Name="orderType" Type="nvarchar" MaxLength="40" />
+    <Property Name="total" Type="float" />
+    <Property Name="received" Type="float" />
+    <Property Name="change" Type="float" />
+    <Property Name="driverID" Type="int" />
+    <Property Name="custName" Type="nvarchar" MaxLength="50" />
+    <Property Name="custPhone" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="upass" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="uName" Type="nvarchar" MaxLength="50" />
+    <Property Name="uphone" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityContainer Name="QLQAModelStoreContainer">
+    <EntitySet Name="category" EntityType="Self.category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="products" EntityType="Self.products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="staff" EntityType="Self.staff" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tables" EntityType="Self.tables" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblDetails" EntityType="Self.tblDetails" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblMain" EntityType="Self.tblMain" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="users" EntityType="Self.users" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
